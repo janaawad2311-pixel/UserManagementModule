@@ -138,4 +138,4 @@ public class LoginFragment extends Fragment {
 
     }
 
-//hi Im Jana mmmmm
+//hi Im Jana mmmmm i just get rid of majd username
