@@ -23,7 +23,6 @@ public class MainActivity extends AppCompatActivity {
         });
 
         gotoLoginFragment();
-
     }
 
     private void gotoLoginFragment() {
